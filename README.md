@@ -1,7 +1,7 @@
 
 # Automated Tests DevPortal V2 - Execution Guide
 
-This guide provides instructions for executing the Cypress project. Cypress is an end-to-end testing framework for web applications. The project includes sensitive files in cypress.config.js, so it's important to handle these files with care.
+This guide provides instructions for executing the Cypress project. Cypress is an end-to-end testing framework for web applications. The project includes sensitive files in `cypress.config.js`, so it's important to handle these files with care.
 
 ## Prerequisites
 
