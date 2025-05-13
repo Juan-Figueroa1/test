@@ -1,18 +1,18 @@
 
 # Automated Tests DevPortal V2 - Execution Guide
 
-This is an execution guide for the Cypress project. Cypress is an end-to-end testing framework for web applications. In this project, you will find sensitive files in `cypress.config.js`, so it's important to handle these files with care.
+This guide provides instructions for executing the Cypress project. Cypress is an end-to-end testing framework for web applications. The project includes sensitive files in cypress.config.js, so it's important to handle these files with care.
 
 ## Prerequisites
 
-Before running the Cypress project, make sure you have the following installed on your machine:
+Ensure you have the following installed on your machine before running the Cypress project:
 
 - [Node.js](https://nodejs.org) (version 17 or higher)
 - [npm](https://www.npmjs.com/) (usually comes with Node.js)
 
 ## Configuration
 
-Follow the steps below to set up and run the Cypress project:
+Follow these steps to set up and run the Cypress project:
 
 1. **Clone the Repository**: Download or clone the project repository to your local environment.
 
@@ -38,7 +38,7 @@ Follow the steps below to set up and run the Cypress project:
    ```bash
    npm install cypress --save-dev
    ```
-- If Cypress is not found after running the first command, please try the second one.
+- If Cypress is not found after running the first command, try the following:
      
    ```bash
    npm install cypress@latest --save-dev
