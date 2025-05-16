@@ -49,7 +49,7 @@ Follow these steps before setting up the Cypress project:
       ssh hpdevportal3.dev@hpdevportal3dev.ssh.prod.acquia-sites.com "drush @hpdevportal3.dev user:login --mail=your_email@example.com"
       ```
       
-      If successful, you should see the messagge: **"You are now connected to Acquia Cloud"**
+      If successful, you should see the message: **"You are now connected to Acquia Cloud"**
 
 ## Cypress Project Setup
 
