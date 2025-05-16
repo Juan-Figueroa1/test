@@ -5,11 +5,11 @@ This guide provides step-by-step instructions for setting up and running Cypress
 
 ## Prerequisites
 
-Ensure you have the following installed on your machine before running the Cypress project:
+Before running the Cypress project, ensure the following are installed and configured on your machine:
 
 - [Node.js](https://nodejs.org) (version 17 or higher)
 - [npm](https://www.npmjs.com/) (usually comes with Node.js)
-- [SSH Public Key](https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key) (See below for instructions)
+- [SSH Public Key](https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key) (see instructions below)
 
 ## Configuration of Account
 
